@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 10 11:13:19 EDT 2019
+0.baseType=DIRECTORY
+0.base=/home/vineet/Projects/AndroidProjects/PA4/MySimpleDynamo0.24/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

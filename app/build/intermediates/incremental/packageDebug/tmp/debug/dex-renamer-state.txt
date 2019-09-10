@@ -1,0 +1,4 @@
+#Fri May 10 11:13:19 EDT 2019
+base.0=/home/vineet/Projects/AndroidProjects/PA4/MySimpleDynamo0.24/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
